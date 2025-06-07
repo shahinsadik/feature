@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let lastScrollY = window.scrollY; // Initialize last scroll position
     let timeout;
-
+// commit
     window.addEventListener('scroll', () => {
         if (timeout) {
             clearTimeout(timeout);
