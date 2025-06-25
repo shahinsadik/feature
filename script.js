@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     //next commit
     //next
     // next ui
+    //lost some
     window.addEventListener('scroll', () => {
         if (timeout) {
             clearTimeout(timeout);
