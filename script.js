@@ -9,6 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
     //next
     // next ui
     //lost some
+    //update
     window.addEventListener('scroll', () => {
         if (timeout) {
             clearTimeout(timeout);
